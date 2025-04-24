@@ -113,3 +113,8 @@ Just load the extension and you're good to go!
 - Groq API – https://console.groq.com
 - Chrome Extension Docs – https://developer.chrome.com 
 - Thanks to all hackathon mentors and volunteers ❤️
+
+---
+
+## 🏁 Final Words  
+We loved building this! From brainstorming code detection to wiring it to Groq AI, this project helped us grow as a team and as builders. We’re excited to see how it can evolve into a daily companion for learners, coders, and educators around the world. 💡🚀
