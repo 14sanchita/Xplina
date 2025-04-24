@@ -1,74 +1,83 @@
-# Code Assistant Overlay
+🚀 Code Assistant Overlay
+A browser extension that explains code instantly — right where you find it.
 
-A Chrome extension that provides an intelligent code assistant overlay for coding websites, helping developers understand and analyze code more effectively.
+📌 Problem Statement
+Problem Statement 1 – Weave AI Magic with Groq
 
-## Features
+🎯 Objective
+Understanding code online is hard — especially for beginners.
+Our Chrome extension lets users simply hover or click to detect code snippets on websites like GitHub, Stack Overflow, CodePen, etc., ask questions, and get real-time explanations from Groq AI — all in the browser, no switching tabs or tools.
 
-- **Smart Code Detection**: Automatically detects and highlights code blocks on coding websites
-- **Interactive Overlay**: Provides a clean, modern interface for code analysis
-- **Language Detection**: Automatically identifies programming languages
-- **Code Analysis**: Ask questions about code and get detailed explanations
-- **API Integration**: Uses Groq API for intelligent code analysis
-- **Customizable Settings**: Configure API keys and other preferences
-- **GitHub Integration**: Works seamlessly with GitHub's code view
+🧠 Team & Approach
+Team Name: Team Manthan
 
-## Installation
+Team Members:
 
-1. Clone this repository
-2. Open Chrome and navigate to `chrome://extensions/`
-3. Enable "Developer mode" in the top right
-4. Click "Load unpacked" and select the extension directory
+Sanchita Tewary – Frontend Developer (LinkedIn / GitHub)
+Supratim Haldar – Full Stack Developer (LinkedIn / GitHub)
+Our Approach:
 
-## Usage
+We wanted to solve a real and frustrating problem: understanding code while browsing.
+Key challenges included: detecting code reliably on different websites and securing API key usage.
+Big breakthrough: Keeping the extension frontend-only and using localStorage for secure key handling.
+🛠️ Tech Stack
+Core Technologies Used:
 
-1. Navigate to any coding website (e.g., GitHub, Stack Overflow)
-2. Click the 💡 button that appears in the bottom right corner
-3. Click on any code block to analyze it
-4. Type your question in the input field
-5. Get instant, detailed explanations about the code
+Frontend: HTML, CSS, JavaScript
+Database: localStorage (in-browser)
+APIs: Groq API (Mistral-Saba-24B model)
+Sponsor Technologies Used:
 
-## Configuration
+✅ Groq: Used Groq's blazing-fast inference to process natural language questions about code using the Mistral-Saba-24B model.
+❌ Monad
+❌ Fluvio
+❌ Base
+❌ Screenpipe
+❌ Stellar
+✨ Key Features
+✅ Hover to detect code snippets in real time
+✅ Option to extract all code blocks from any page
+✅ Ask natural language questions about any code
+✅ Uses Groq’s Mistral-Saba-24B model for blazing-fast answers
+✅ 100% browser-based — secure, lightweight, private
+✅ API key stays local — no server or backend
 
-The extension requires a Groq API key for full functionality:
+Supported Websites
+GitHub
+Stack Overflow
+Leetcode
+And other major coding platforms
+📽️ Demo & Deliverables
+Demo Video Link: [Coming Soon / Paste link here]
+Pitch Deck / PPT Link: [Paste Google Slides / PDF link here]
+✅ Tasks & Bonus Checklist
+✅ All members completed the mandatory task
+✅ Bonus Task 1 - Badge Sharing
+✅ Bonus Task 2 - Sprint.dev Signup
+🧪 How to Run the Project
+Requirements:
+Chrome Browser
+Groq API Key
+Setup Instructions:
+# Clone the repository
+git clone https://github.com/your-team/code-assistant-overlay
 
-1. Click the settings button in the overlay
-2. Enter your Groq API key
-3. Click "Save API Key"
+# Go to Chrome > Extensions > Enable Developer Mode
+# Click "Load Unpacked" and select the project folder
 
-## Supported Websites
+# Add your Groq API key in the extension's settings panel (stored locally)
+➡ No npm, Node.js, or backend setup required.
+Just load the extension and you're good to go!
 
-- GitHub
-- Stack Overflow
-- And other major coding platforms
+🦠 Future Scope
+📈 Smarter models (CodeLlama, DeepSeekCoder) for deeper explanations
+🌐 Browser-wide support: PDFs, blogs, technical sites
+🔐 Stronger API key encryption (WebCrypto/AES)
+🧠 Context-aware: full file/project analysis, not just snippets
 
-## Development
-
-### Project Structure
-
-- `content.js`: Main extension logic and UI implementation
-- `manifest.json`: Extension configuration
-- `icon.png`: Extension icon
-
-### Building
-
-1. Make sure you have Node.js installed
-2. Run `npm install` to install dependencies
-3. Make your changes
-4. Test the extension in Chrome
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Support
-
-For support, please open an issue in the GitHub repository.
-
-## Acknowledgments
-
-- Uses Groq API for code analysis
-- Inspired by modern code review tools 
+📌 Resources / Credits
+Groq API – https://console.groq.com
+Chrome Extension Docs – https://developer.chrome.com
+Thanks to all hackathon mentors and volunteers ❤️
+🏁 Final Words
+We loved building this! From brainstorming code detection to wiring it to Groq AI, this project helped us grow as a team and as builders. We’re excited to see how it can evolve into a daily companion for learners, coders, and educators around the world. 💡🚀
