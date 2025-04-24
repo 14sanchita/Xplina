@@ -18,8 +18,8 @@ Our Chrome extension lets users simply hover or click to detect code snippets on
 **Team Name:** Team Manthan  
 
 **Team Members:**  
-- Sanchita Tewary – Frontend Developer (LinkedIn / GitHub)  
-- Supratim Haldar – Full Stack Developer (LinkedIn / GitHub)  
+- Sanchita Tewary – (LinkedIn / GitHub)  
+- Supratim Haldar – (LinkedIn / GitHub)  
 
 **Our Approach:**  
 - We wanted to solve a real and frustrating problem: understanding code while browsing.  
