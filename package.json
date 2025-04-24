@@ -1,0 +1,6 @@
+{
+  "name": "code-assistant-overlay",
+  "version": "1.0.0",
+  "description": "A Chrome extension that helps you understand code on websites",
+  "license": "MIT"
+} 

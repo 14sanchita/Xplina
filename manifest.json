@@ -1,0 +1,32 @@
+{
+  "manifest_version": 3,
+  "name": "Code Assistant Overlay",
+  "version": "1.0",
+  "description": "An AI-powered code explanation tool that helps you understand code on websites",
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  },
+  "permissions": [
+    "activeTab",
+    "storage",
+    "scripting"
+  ],
+  "host_permissions": [
+    "<all_urls>"
+  ],
+  "web_accessible_resources": [{
+    "resources": ["icon.png", "icon16.png", "icon48.png", "icon128.png"],
+    "matches": ["<all_urls>"]
+  }],
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"],
+      "css": ["styles.css"],
+      "run_at": "document_idle",
+      "all_frames": true
+    }
+  ]
+} 
