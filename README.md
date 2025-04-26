@@ -48,6 +48,10 @@ Our Chrome extension lets users simply hover or click to detect code snippets on
 ✅ 100% browser-based — secure, lightweight, private  
 ✅ API key stays local — no server or backend
 
+
+![Feature1]()
+![Feature1]()
+![Feature1]()
 ---
 ## Supported Websites
 
