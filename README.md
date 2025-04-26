@@ -91,12 +91,10 @@ Our Chrome extension lets users simply hover or click to detect code snippets on
 # Go to this link [https://console.groq.com/settings/models] and accept the terms of mistral-saba-24b model and make it available
 
 ```
+![model enable](https://github.com/14sanchita/Xplina/blob/main/Model.jpg)
 
 ➡ No npm, Node.js, or backend setup required.  
 Just load the extension and you're good to go!
-
----
-![model enable](https://github.com/14sanchita/Xplina/blob/main/Model.jpg)
 
 ---
 
