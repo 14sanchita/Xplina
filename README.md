@@ -50,7 +50,7 @@ Our Chrome extension lets users simply hover or click to detect code snippets on
 
 
 ![Feature1](https://github.com/14sanchita/Xplina/blob/main/Feature1.png)
-![Feature1]()
+![Feature1](https://github.com/14sanchita/Xplina/blob/main/Feature2.png)
 ![Feature1]()
 ---
 ## Supported Websites
