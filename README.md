@@ -1,4 +1,4 @@
-# 🚀 Code Assistant Overlay
+# 🚀 Xplina : Code Assistant Overlay
 > A browser extension that explains code instantly — right where you find it.
 
 ---
@@ -37,11 +37,6 @@ Our Chrome extension lets users simply hover or click to detect code snippets on
 
 **Sponsor Technologies Used:**  
 - ✅ **Groq:** Used Groq's blazing-fast inference to process natural language questions about code using the Mistral-Saba-24B model.  
-- ❌ Monad  
-- ❌ Fluvio  
-- ❌ Base  
-- ❌ Screenpipe  
-- ❌ Stellar
 
 ---
 
@@ -65,7 +60,7 @@ Our Chrome extension lets users simply hover or click to detect code snippets on
 ---
 ## 📽️ Demo & Deliverables  
 
-- **Demo Video Link:** [https://drive.google.com/drive/folders/1lzNGllDb3iME2vd3GQ3SI7-qk-kUcMhF?usp=sharing]  
+- **Demo Video Link:** [https://youtu.be/ILCMJGJgZlU]  
 - **Pitch Deck / PPT Link:** [https://drive.google.com/drive/folders/1lzNGllDb3iME2vd3GQ3SI7-qk-kUcMhF?usp=sharing]  
 
 ---
@@ -87,7 +82,7 @@ Our Chrome extension lets users simply hover or click to detect code snippets on
 ### Setup Instructions:  
 ```bash
 # Clone the repository
-git clone https://github.com/your-team/code-assistant-overlay
+git clone https://github.com/14sanchita/Xplina.git
 
 # Go to Chrome > Extensions > Enable Developer Mode
 # Click "Load Unpacked" and select the project folder
