@@ -96,7 +96,7 @@ Our Chrome extension lets users simply hover or click to detect code snippets on
 Just load the extension and you're good to go!
 
 ---
-![model enable]()
+![model enable](https://github.com/14sanchita/Xplina/blob/main/Model.jpg)
 
 ---
 
