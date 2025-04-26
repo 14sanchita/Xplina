@@ -82,12 +82,14 @@ Our Chrome extension lets users simply hover or click to detect code snippets on
 ### Setup Instructions:  
 ```bash
 # Clone the repository
-git clone https://github.com/14sanchita/Xplina.git
+ git clone https://github.com/14sanchita/Xplina.git
 
 # Go to Chrome > Extensions > Enable Developer Mode
 # Click "Load Unpacked" and select the project folder
 
 # Add your Groq API key in the extension's settings panel (stored locally)
+# Go to this link [https://console.groq.com/settings/models] and accept the terms of mistral-saba-24b model and make it available
+
 ```
 
 ➡ No npm, Node.js, or backend setup required.  
