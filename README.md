@@ -49,7 +49,7 @@ Our Chrome extension lets users simply hover or click to detect code snippets on
 ✅ API key stays local — no server or backend
 
 
-![Feature1]()
+![Feature1](https://github.com/14sanchita/Xplina/blob/main/Feature1.png)
 ![Feature1]()
 ![Feature1]()
 ---
